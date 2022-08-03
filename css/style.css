@@ -72,3 +72,63 @@ input[type=submit]:hover {
   background-color: #dfdbd4;
   padding: 20px;
 }
+
+.social-footer { 
+    padding: 1rem;
+    background: darkgray;
+    /* display: flex;
+    align-items: center;
+    justify-content: space-between; */
+}
+    footer {
+      text-align: center;
+      background-color: beige;
+      font-size: 20px;
+    }
+    .fa {
+        padding: 20px;
+        font-size: 40px;
+        width: 100px;
+        text-align: center;
+        text-decoration: none;
+        margin: 10px 10px;
+        border-radius: 10px;
+      }
+      
+      .fa:hover {
+        opacity: 0.7;
+      }
+    .fa-facebook {
+        background: #3b5998;
+        color: white;
+    }
+
+    .fa-instagram {
+        background: #125688;
+        color: white;
+    }
+
+    #logo {
+        width: 120px;
+        height: 120px;
+        border-radius: 100%;
+        margin-top: 6px;
+       
+    }
+    
+    .paint-image {
+        height: 50vh;
+    width: 100%;
+    }
+
+    .canvas-image {
+        height: 50vh;
+        width: 100%;
+     
+    }
+
+    .paints-image {
+        height: 50vh;
+        width: 100%;
+     
+    }
