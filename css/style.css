@@ -7,7 +7,7 @@ ul {
         padding: 0;
        background-color: rgb(228, 228, 205);
        font-family: Arial, Helvetica, sans-serif;
-       font-size: 15px;
+       font-size: 20px;
        text-transform: uppercase;
        
       }
@@ -21,7 +21,7 @@ ul {
 a{
      
     display: block;
-    padding: 10px;
+    padding: 20px;
     color: rgb(95, 113, 89);
     text-decoration: none;
  }
@@ -40,7 +40,7 @@ font-family: 'Times New Roman', Times, serif;
     width: 100%;
 }
 
-body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: 'Times New Roman', Times, serif;}
 * {box-sizing: border-box;}
 
 input[type=text], select, textarea {
@@ -55,7 +55,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-  background-color: #04AA6D;
+  background-color: #406456;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -64,11 +64,11 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #566557;
 }
 
 .container {
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: #dfdbd4;
   padding: 20px;
 }
