@@ -1,1 +1,36 @@
 @import url("style.css");
+
+.social-footer { 
+    padding: 1rem;
+    background: darkgray;
+    /* display: flex;
+    align-items: center;
+    justify-content: space-between; */
+}
+    footer {
+      text-align: center;
+      background-color: beige;
+      font-size: 20px;
+    }
+    .fa {
+        padding: 20px;
+        font-size: 40px;
+        width: 100px;
+        text-align: center;
+        text-decoration: none;
+        margin: 10px 10px;
+        border-radius: 10px;
+      }
+      
+      .fa:hover {
+        opacity: 0.7;
+      }
+    .fa-facebook {
+        background: #3b5998;
+        color: white;
+    }
+
+    .fa-instagram {
+        background: #125688;
+        color: white;
+    }
