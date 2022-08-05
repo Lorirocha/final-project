@@ -18,15 +18,14 @@ ul {
  
       }
 
-a{
-     
+a{  
     display: block;
-    padding: 35px;
+    padding: 40px;
     color: rgb(95, 113, 89);
     text-decoration: none;
  }
  body {
-font-family: 'Times New Roman', Times, serif;
+   font-family: 'Times New Roman', Times, serif;
    margin: 0;
  }
 
@@ -111,42 +110,22 @@ input[type=submit]:hover {
 
     #logo {
         width: 80x;
-        height: 80px;
+        height: 90px;
         border-radius: 100%;
         margin-top: 6px;
        float: left;
     }
     
-    .paint-image {
-        height: 50vh;
-    width: 100%;
-    }
-
-    .canvas-image {
-        height: 50vh;
-        width: 100%;
-     
-    }
-
-    .paints-image {
-        height: 50vh;
-        width: 100%;
-     
-    }
-
+    
    .center{
     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
    }
 
         h2{
            text-align: center;
-           
         }
 
-        .girl-image {
-            height: 400x;
-            width: 350px;
-        }
+        
